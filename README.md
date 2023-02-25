@@ -1,4 +1,4 @@
-This Project is a simple covid vaccination app, Built with Kotlin Jetpack Compose.
+#CovidVaccinationApp This Project is a simple covid vaccination app, Built with Kotlin Jetpack Compose.
 
  
 
