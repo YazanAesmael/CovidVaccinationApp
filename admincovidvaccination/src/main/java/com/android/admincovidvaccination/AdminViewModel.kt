@@ -19,7 +19,8 @@ class AdminMainViewModel: ViewModel() {
 
     private fun fetchDataFromFirebase() {
         response.value = UserState.Loading
-        val database = Firebase.database("https://vaccination-95807-default-rtdb.asia-southeast1.firebasedatabase.app")
+        val database = Firebase
+            .database("YOUR FIREBASE DATABASE URL")
 
         val ref = database.getReference("Admin/Info/available slots/")
 
