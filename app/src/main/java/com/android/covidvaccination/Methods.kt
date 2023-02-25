@@ -24,7 +24,8 @@ import java.io.OutputStream
 import java.util.concurrent.TimeUnit
 
 lateinit var auth: FirebaseAuth
-internal val database = Firebase.database("https://vaccination-95807-default-rtdb.asia-southeast1.firebasedatabase.app")
+internal val database = Firebase
+    .database("YOUR FIREBASE DATABASE URL")
 var storedVerificationId: String = ""
 const val MY_LOG = "logCompose"
 val userDetails = mutableListOf<UserData>()

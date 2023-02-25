@@ -17,7 +17,8 @@ class MainViewModel: ViewModel() {
     }
 
     private fun fetchBloodDataFromFirebase() {
-        val database = Firebase.database("https://vaccination-95807-default-rtdb.asia-southeast1.firebasedatabase.app")
+        val database = Firebase
+            .database("YOUR FIREBASE DATABASE URL")
         val uid = FirebaseAuth.getInstance().uid.toString()
         auth = FirebaseAuth.getInstance()
 
