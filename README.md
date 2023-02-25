@@ -1,6 +1,6 @@
-# CovidVaccinationApp
+This Project is a simple covid vaccination app, Built with Kotlin Jetpack Compose.
 
-This Project is a simple covid vaccination app, Built with Kotlin Jetpack Compose. 
+ 
 
 `User Module` a user will be able to sign up using phone number, 
 A user can chech for available slots, and download a vaccination certificate after vaccination, 
