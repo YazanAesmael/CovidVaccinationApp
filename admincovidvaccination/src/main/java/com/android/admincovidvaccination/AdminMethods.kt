@@ -9,7 +9,6 @@ import com.google.firebase.ktx.Firebase
 
 lateinit var auth: FirebaseAuth
 internal val database = Firebase.database("YOUR FIREBASE DATABASE URL")
-var storedVerificationId: String = ""
 const val MY_LOG = "logCompose"
 
 fun updateSlots(context: Context, slots: Int) {
