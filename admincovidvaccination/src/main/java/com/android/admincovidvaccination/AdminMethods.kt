@@ -8,8 +8,7 @@ import com.google.firebase.database.ktx.database
 import com.google.firebase.ktx.Firebase
 
 lateinit var auth: FirebaseAuth
-internal val database = Firebase
-    .database("YOUR FIREBASE DATABASE URL")
+internal val database = Firebase.database("YOUR FIREBASE DATABASE URL")
 var storedVerificationId: String = ""
 const val MY_LOG = "logCompose"
 
