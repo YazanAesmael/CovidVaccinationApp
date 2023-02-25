@@ -15,6 +15,5 @@ User Module ScreenShots:
 ![quiz_app_collage](https://user-images.githubusercontent.com/97782768/221358003-e6534eb8-8bb3-4e26-8971-952660aab365.png)
 
 
-
 Admin Module Screenshots:
 ![quiz_app_collage (1)](https://user-images.githubusercontent.com/97782768/221358043-7d03e027-e1d8-4761-8faf-e4a50b31bf5d.png)
