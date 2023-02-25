@@ -64,7 +64,7 @@ class AdminMainActivity : ComponentActivity() {
 @Composable
 fun SplashScreen( navController: NavController) {
     AdminMainViewModel()
-    
+
     getSlots()
     auth = FirebaseAuth.getInstance()
     var isVisible by remember {
