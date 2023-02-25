@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "53295621254",
+    "firebase_url": "https://vaccination-95807-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vaccination-95807",
+    "storage_bucket": "vaccination-95807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53295621254:android:55020752d2beaa0c9e1d07",
+        "android_client_info": {
+          "package_name": "com.android.covidvaccination"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53295621254-ndg1p34u77codfg9mk619blopij78ft5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.covidvaccination",
+            "certificate_hash": "67182db4b3500a4beac70e13c0ef8f8701446ee3"
+          }
+        },
+        {
+          "client_id": "53295621254-5fho6vvjedi5gpbr8rbc9bp4iio57bem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATC1jK_tLb5sSHcgWFMTbRgkVjoe4mWBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53295621254-5fho6vvjedi5gpbr8rbc9bp4iio57bem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
